@@ -1,0 +1,2 @@
+# NER-with-Turkish-Bert
+BERT is a deep bidirectional language model that was created by Google researchers in 2018. It is fine-tuned to solve several NLP tasks, such as question answering, named entity recognition, translator etc. in English. In this paper, we create Turkish Bert Model and we use the pre-trained bidirectional network of our BERT, to make a model for named entity recognition in Turkish.
